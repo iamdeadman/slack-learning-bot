@@ -1,5 +1,5 @@
 node_modules
 .serverless
 .DS_Store
-*.env.yml
+.env.yml
 package-lock.json
